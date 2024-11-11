@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "create-adonisjs": "^2.4.0"
+  }
+}
